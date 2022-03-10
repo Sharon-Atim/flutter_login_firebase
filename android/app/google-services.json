@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42362165294",
+    "project_id": "flutter-cookbook-7d4af",
+    "storage_bucket": "flutter-cookbook-7d4af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42362165294:android:9cdcf8c013dbbe7bb3a7bf",
+        "android_client_info": {
+          "package_name": "sharon.atim.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42362165294-8addn37kg48l8klll36d5llmi391eni3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQ6fN7ajqU3f9uEM2FsEbubkDkn1jFKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42362165294-8addn37kg48l8klll36d5llmi391eni3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
