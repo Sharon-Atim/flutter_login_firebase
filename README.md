@@ -1,16 +1,15 @@
-# flutter_firebase_demo
+# flutter login appp
 
-A new Flutter project.
+A flutter login screen that connects with Firebase Authentication and Google Sign-In to enable users to login/sign-in.
+Connected to a 
 
-## Getting Started
+# Features
+* Firebase Authentication integration
+* Google Sign-In integration
+* Visual Error Handling
+* Password Obscured
+* Login/Sign-up with Google Sign-In
+* Login/Sign-Up with E-mail & Password
+* Logout Functionality
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/54467942/157719528-0a066fe7-9dfa-4404-b0ab-f809941343da.png)
