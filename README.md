@@ -1,6 +1,5 @@
 # flutter login app
 A flutter login screen that connects with Firebase Authentication and Google Sign-In to enable users to login/sign-in.
-Connected to a 
 
 # Features
 * Firebase Authentication integration
